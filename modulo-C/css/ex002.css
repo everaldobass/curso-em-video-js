@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-colo: white;
+
+    font: normal 20pt Arial;
+}
+
+input{
+    font: normal 20pt;
+    font-size: large;
+
+    width: 100px;
+    height: 40px;
+    color: black;
+    
+}
+
+div#res{
+    margin-top: 20px;
+    color: crimson;
+    width: 400px;
+    height: 200px;
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    
+}
