@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    background: #1ac99d;
+    font:bold
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#msg{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+
+.texto{
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.lista{
+    width: 250px;
+}
+
+
+.btn{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #489e82;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+
+
+.btnF{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #cf5f14;
+    border: none;
+    color: white;
+    font-weight: 500;
+}
+
+.frase{
+    padding: auto;
+    margin-top: 10px;
+}
+
+
+
+section{
+    background: #20292e;
+    border-radius: 10px;
+    padding: 1px;
+    width: 500px;
+    height: 750px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.651);
+    color: white;
+
+
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    background-color:#263238;
+    height: 366px;
+    border-radius: 10px;
+    
+
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+footer{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    color: rgb(255, 249, 249);
+    text-align: center;
+    font-style: italic ;
+}
