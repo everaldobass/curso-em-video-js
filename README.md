@@ -7,14 +7,15 @@ Excelente conteúdo, melhor  curso de JS  da internet totalmente free.
 - MDN Web Docs - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 #### Exercicios Desenvolvidos
-- Contador
+
+#### Contador
 <img src='./curso-em-video-js/img/contador.png ' width='100%'/>
 
-- Relógio do Dia
+#### Relógio do Dia
 <img src='./curso-em-video-js/img/relogio.png ' width='100%'/>
 
-- Verificardor de idade
+#### Verificardor de idade
 <img src='./curso-em-video-js/img/verificaridade.png ' width='100%'/>
 
-- Válidador
+#### Válidador
 <img src='./curso-em-video-js/img/analisador.png ' width='100%'/>
