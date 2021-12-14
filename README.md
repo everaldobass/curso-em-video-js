@@ -17,4 +17,4 @@ Excelente conteúdo, melhor  curso de JS  da internet totalmente free.
 <img src='./curso-em-video-js/img/verificaridade.png ' width='100%'/>
 
 - Válidador
--<img src='./curso-em-video-js/img/analisador.png ' width='100%'/>
+<img src='./curso-em-video-js/img/analisador.png ' width='100%'/>
