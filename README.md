@@ -9,13 +9,13 @@ Excelente conteúdo, melhor  curso de JS  da internet totalmente free.
 #### Exercicios Desenvolvidos
 
 #### Contador
-<img src='./curso-em-video-js/img/contador.png ' width='100%'/>
+<img src='./cursos-em-video-js/img/contador.png ' width='100%'/>
 
 #### Relógio do Dia
-<img src='./curso-em-video-js/img/relogio.png ' width='100%'/>
+<img src='./cursos-em-video-js/img/relogio.png ' width='100%'/>
 
 #### Verificardor de idade
-<img src='./curso-em-video-js/img/verificaridade.png ' width='100%'/>
+<img src='./cursos-em-video-js/img/verificaridade.png ' width='100%'/>
 
 #### Válidador
-<img src='./curso-em-video-js/img/analisador.png ' width='100%'/>
+<img src='./cursos-em-video-js/img/analisador.png ' width='100%'/>
